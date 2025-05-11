@@ -24,6 +24,12 @@
   <a href="http://m.me/ALAMIN2K07" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger">
   </a>
+  <a href="https://t.me/ALAMIN2K07" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://wa.me/+8801300504976" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
 </p>
 
 ## PROFILE VISITORS
