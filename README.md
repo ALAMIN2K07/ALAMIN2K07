@@ -15,7 +15,12 @@
 
 
 
-[![Connect With Me](https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=FF0033&center=true&vCenter=true&width=850&lines=🫶+Connect+With+Me+🫶)](https://github.com/ALAMIN2K07)
+<p align="center">
+  <img src="https://em-content.zobj.net/source/apple/391/heart-hands_1faf6.png" width="40" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=FF0033&center=true&vCenter=true&width=800&lines=Connect+With+Me" />
+  <img src="https://em-content.zobj.net/source/apple/391/heart-hands_1faf6.png" width="40" />
+</p>
+
 
 <p align="center">
   <a href="https://www.facebook.com/ALAMIN2K07" target="_blank">
