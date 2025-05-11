@@ -35,20 +35,34 @@
   </a>
 </p>
 
-## PROFILE VISITORS
 
 <div align="center">
-  <h2 style="font-family: 'Segoe UI', cursive; color: #F50057;">
-    🧲 Profile Visitors 🧲
+  <h2 style="font-family: 'Pacifico', cursive; font-size: 36px; color: #FF2E63; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">
+    ✨ Profile Visitors ✨
   </h2>
-  <a href="https://github.com/ALAMIN2K07" target="_blank">
+  
+  <a href="https://github.com/ALAMIN2K07" target="_blank" style="text-decoration: none;">
     <img 
-      src="https://visitor-badge.laobi.icu/badge?page_id=ALAMIN2K07&title=Visitors&color=F50057&style=flat-square" 
+      src="https://visitor-badge.laobi.icu/badge?page_id=ALAMIN2K07&title=Visitors&color=FF2E63&style=for-the-badge" 
       alt="Visitor Badge"
-      style="box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 8px; padding: 5px;"
+      style="
+        margin-top: 10px;
+        padding: 10px 20px;
+        border-radius: 12px;
+        box-shadow: 0 4px 14px rgba(255, 46, 99, 0.5);
+        background: linear-gradient(135deg, #FF2E63 0%, #FF6F91 100%);
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+        display: inline-block;
+        transition: transform 0.3s ease;
+      "
+      onmouseover="this.style.transform='scale(1.05)'"
+      onmouseout="this.style.transform='scale(1)'"
     />
   </a>
 </div>
+
 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
 
