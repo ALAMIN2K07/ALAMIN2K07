@@ -15,9 +15,9 @@
 
 
 <p align="center">
-  <img src="https://em-content.zobj.net/source/apple/391/black-heart_1f5a4.png" width="40" />
+  <img src="https://em-content.zobj.net/source/apple/391/black-heart_1f5a4.png" width="30" />
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=FF0033&center=true&vCenter=true&width=800&lines=Connect+With+Me" />
-  <img src="https://em-content.zobj.net/source/apple/391/black-heart_1f5a4.png" width="40" />
+  <img src="https://em-content.zobj.net/source/apple/391/black-heart_1f5a4.png" width="30" />
 </p>
 
 
