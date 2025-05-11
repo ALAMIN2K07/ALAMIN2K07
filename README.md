@@ -15,11 +15,10 @@
 
 
 <p align="center">
-  <img src="https://em-content.zobj.net/source/apple/391/black-heart_1f5a4.png" width="30" />
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=FF0033&center=true&vCenter=true&width=800&lines=Connect+With+Me" />
-  <img src="https://em-content.zobj.net/source/apple/391/black-heart_1f5a4.png" width="30" />
+  <span style="font-size: 35px;">🖤</span>
+  <span style="font-family: 'Pacifico', cursive; font-size: 35px; color: #FF3366; margin: 0 10px;">Connect With Me</span>
+  <span style="font-size: 35px;">🖤</span>
 </p>
-
 
 <p align="center">
   <a href="https://www.facebook.com/ALAMIN2K07" target="_blank">
