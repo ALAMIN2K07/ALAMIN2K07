@@ -7,6 +7,13 @@
 
 [![Picsart-25-03-24-22-41-10-837.png)](https://i.postimg.cc/fLhWvTfh/Picsart-25-03-24-22-41-10-837.png)](https://postimg.cc/t12Hqbcr)
 
+<h3 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
+  &nbsp;MOHAMMAD ALAMIN&nbsp;
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
+</h3>
+
+
 <h2 align="center" style="font-family: cursive; color: #D81B60;">
   <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="28" style="vertical-align: middle; margin-right: 10px;" />
   <i>Connect With Me</i>
