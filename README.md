@@ -3,8 +3,6 @@
 
 ![](https://dl.kaskus.id/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-
 [![Picsart-25-03-24-22-41-10-837.png)](https://i.postimg.cc/fLhWvTfh/Picsart-25-03-24-22-41-10-837.png)](https://postimg.cc/t12Hqbcr)
 
 <h3 align="center">
