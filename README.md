@@ -37,10 +37,18 @@
 
 ## PROFILE VISITORS
 
-<h2 align="center">👀 Profile Visitors</h2>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ALAMIN2K07" alt="visitor badge"/>
-</p>
+<div align="center">
+  <h2 style="font-family: 'Segoe UI', cursive; color: #F50057;">
+    🧲 Profile Visitors 🧲
+  </h2>
+  <a href="https://github.com/ALAMIN2K07" target="_blank">
+    <img 
+      src="https://visitor-badge.laobi.icu/badge?page_id=ALAMIN2K07&title=Visitors&color=F50057&style=flat-square" 
+      alt="Visitor Badge"
+      style="box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 8px; padding: 5px;"
+    />
+  </a>
+</div>
 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
 
