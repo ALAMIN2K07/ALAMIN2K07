@@ -15,7 +15,12 @@
 
 </p>
 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
+<h2 align="center">
+  <img src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" width="28" />
+  <i style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4A90E2;">
+    Connect With Me
+  </i>
+</h2>
 
 <p align="center">
   <a href="https://www.facebook.com/ALAMIN2K07" target="_blank">
