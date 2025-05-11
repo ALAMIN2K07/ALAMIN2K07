@@ -15,9 +15,9 @@
 
 
 <p align="center">
-  <span style="font-size: 50px;">🖤</span>
-  <span style="font-family: 'Pacifico', cursive; font-size: 50px; color: #FF3366; margin: 0 50px;">Connect With Me</span>
-  <span style="font-size: 50px;">🖤</span>
+  <span style="font-size: 45px;">🖤</span>
+  <span style="font-family: 'Pacifico', cursive; font-size: 45px; color: #FF3366; margin: 0 15px;">Connect With Me</span>
+  <span style="font-size: 45px;">🖤</span>
 </p>
 
 <p align="center">
