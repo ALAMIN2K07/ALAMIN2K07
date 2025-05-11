@@ -15,11 +15,7 @@
 
 
 
-<h2 align="center" style="font-family: 'Lucida Handwriting', cursive; color: #D81B60;">
-  <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="28" style="vertical-align: middle; margin-right: 10px;" />
-  <i>Connect With Me</i>
-  <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="28" style="vertical-align: middle; margin-left: 10px;" />
-</h2>
+![Connect With Me](https://readme-typing-svg.demolab.com?font=Great+Vibes&size=40&duration=3000&pause=500&color=FF0033&center=true&vCenter=true&width=800&lines=❤️+Connect+With+Me+❤️)
 
 <p align="center">
   <a href="https://www.facebook.com/ALAMIN2K07" target="_blank">
