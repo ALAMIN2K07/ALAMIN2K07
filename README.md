@@ -15,8 +15,8 @@
 
 </p>
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #0A66C2;">
-  <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="28" style="vertical-align: middle; margin-right: 8px;" />
+<h2 align="center" style="font-family: 'cursive'; color: #E91E63;">
+  <img src="https://cdn-icons-png.flaticon.com/512/535/535234.png" width="30" style="vertical-align: middle; margin-right: 10px;" />
   <i>Connect With Me</i>
 </h2>
 
