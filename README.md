@@ -37,7 +37,10 @@
 
 ## PROFILE VISITORS
 
-<img src="https://profile-counter.glitch.me/ALAMIN2K07/count.svg" />
+<h2 align="center">👀 Profile Visitors</h2>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ALAMIN2K07" alt="visitor badge"/>
+</p>
 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
 
