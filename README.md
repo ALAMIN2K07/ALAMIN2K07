@@ -15,7 +15,8 @@
 
 
 
-![Connect With Me](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=45&duration=3000&pause=500&color=FF1744&center=true&vCenter=true&width=800&lines=❤️+Connect+With+Me+❤️)
+[![Connect With Me](https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=FF0033&center=true&vCenter=true&width=800&lines=❤️+Connect+With+Me+❤️)](https://github.com/ALAMIN2K07)
+
 
 <p align="center">
   <a href="https://www.facebook.com/ALAMIN2K07" target="_blank">
