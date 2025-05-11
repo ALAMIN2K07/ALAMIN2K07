@@ -9,8 +9,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70606&width=435&lines=%F0%9F%91%8BWelcome+To+My+Profile+;%F0%9F%AB%B0%F0%9F%96%A4)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70606&center=true&vCenter=true&width=1000&lines=ASSALAMUALAIKUM+WELCOME+TO+MY+PROFILE+%F0%9F%96%A4)](https://git.io/typing-svg)
 [![Picsart-25-03-24-22-41-10-837.png)](https://i.postimg.cc/fLhWvTfh/Picsart-25-03-24-22-41-10-837.png)](https://postimg.cc/t12Hqbcr)
 
 </p>
