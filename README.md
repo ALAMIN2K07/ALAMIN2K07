@@ -64,6 +64,16 @@
 </div>
 
 
-<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
+## 🧠 My GitHub Stats
 
-![MOHAMMAD ALAMIN's Stats](https://github-readme-stats.vercel.app/api?username=GH-MOHAMMAD-ALAMIN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALAMIN2K07&show_icons=true&theme=radical&hide_border=true&title_color=FF2E63&icon_color=F8D866" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALAMIN2K07&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALAMIN2K07&layout=compact&theme=radical&hide_border=true&title_color=FF2E63" alt="Top Languages" />
+</p>
