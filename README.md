@@ -12,6 +12,9 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
 </h3>
 
+<p align="center"><img src="https://img.shields.io/badge/WE%20ARE ⚡BANGLADESHI-PROGRAMMER⚡-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+
+
 
 <h2 align="center" style="font-family: cursive; color: #D81B60;">
   <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="28" style="vertical-align: middle; margin-right: 10px;" />
