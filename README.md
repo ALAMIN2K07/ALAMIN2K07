@@ -64,16 +64,28 @@
 </div>
 
 
-## 🧠 My GitHub Stats
+<h2 align="center" style="font-family: 'Pacifico', cursive; font-size: 36px; color: #FF2E63; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">
+  🚀 My GitHub Stats 🚀
+</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALAMIN2K07&show_icons=true&theme=radical&hide_border=true&title_color=FF2E63&icon_color=F8D866" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALAMIN2K07&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ALAMIN2K07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=FF61A6&icon_color=FFD700"
+    alt="GitHub Stats"
+    style="margin: 10px; border-radius: 20px; box-shadow: 0 8px 24px rgba(255,46,99,0.3);"
+  />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALAMIN2K07&layout=compact&theme=radical&hide_border=true&title_color=FF2E63" alt="Top Languages" />
-</p>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ALAMIN2K07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak"
+    style="margin: 10px; border-radius: 20px; box-shadow: 0 8px 24px rgba(0,204,255,0.3);"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALAMIN2K07&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF"
+    alt="Top Languages"
+    style="margin: 10px; border-radius: 20px; box-shadow: 0 8px 24px rgba(0,255,255,0.3);"
+  />
+
+</div>
