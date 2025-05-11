@@ -15,11 +15,9 @@
 
 </p>
 
-<h2 align="center">
-  <img src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" width="28" />
-  <i style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4A90E2;">
-    Connect With Me
-  </i>
+<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #0A66C2;">
+  <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="28" style="vertical-align: middle; margin-right: 8px;" />
+  <i>Connect With Me</i>
 </h2>
 
 <p align="center">
