@@ -15,7 +15,7 @@
 
 
 
-<h2 align="center" style="font-family: cursive; color: #D81B60;">
+<h2 align="center" style="font-family: 'Lucida Handwriting', cursive; color: #D81B60;">
   <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="28" style="vertical-align: middle; margin-right: 10px;" />
   <i>Connect With Me</i>
   <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="28" style="vertical-align: middle; margin-left: 10px;" />
